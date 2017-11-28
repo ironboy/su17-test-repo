@@ -1,6 +1,6 @@
 A test repository while teaching git to su17.
 Created on a rainy November day.
-Hej och hå!
+Hej och hopp!
 
 Please Note:
 After each pull (at least if something doesn't work) 
